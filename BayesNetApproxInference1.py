@@ -8,13 +8,6 @@
 # This implementation is agnostic of the data and provides a general
 # implementation that can ne used across datasets by providing a config file.
 #
-# WARNINGS:
-#    (1) This code has been revised but not thoroughly tested.
-#    (2) The execution time depends on the number of random samples.
-#
-# Version: 1.0, Date: 07 October 2022, first version
-# Version: 1.5, Date: 20 October 2022, revised version (made simpler)
-# Contact: hcuayahuitl@lincoln.ac.uk
 #############################################################################
 
 import sys

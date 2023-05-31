@@ -3,9 +3,7 @@
 #
 # Implements functions to simplify the implementation of algorithms for
 # probabilistic inference with Bayesian networks.
-#
-# Version: 1.0, 06 October 2022
-# Contact: hcuayahuitl@lincoln.ac.uk
+
 #############################################################################
 
 

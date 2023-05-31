@@ -9,11 +9,7 @@
 # This implementation is agnostic of the data and provides a general
 # implementation that can ne used across datasets by providing a config file.
 #
-# WARNING: This code has not been thoroughly tested.
-#
-# Version: 1.0, Date: 06 October 2022, first version
-# Version: 1.2, Date: 21 October 2022, revised version (more query compatible)
-# Contact: hcuayahuitl@lincoln.ac.uk
+
 #############################################################################
 
 import sys
